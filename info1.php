@@ -1,1 +1,1 @@
-<? mamali.php ?>
+<? 1111 mamali.php ?>
